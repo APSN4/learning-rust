@@ -4,14 +4,14 @@ files:
     visible: true
     placeholders:
       - offset: 1148
-        length: 10
+        length: 11
         placeholder_text: /* TODO */
         initial_state:
           length: 10
           offset: 1148
         initialized_from_dependency: false
         encrypted_possible_answer: kg9WGcrgLb6faEvip/8A3cNTAv9t/fnr9Rp1PoKL7lbLb+9i37lo86CbIy8vFWg1B5qI8bQWb4NSTMKnWdpPsg==
-        selected: false
+        selected: true
         status: Unchecked
       - offset: 1884
         length: 10
